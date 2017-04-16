@@ -1,6 +1,4 @@
-activity_labels.txt
 test/
 train/
 .DS_Store
 .RHistory
-features_orig.txt
