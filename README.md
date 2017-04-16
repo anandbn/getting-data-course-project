@@ -16,7 +16,7 @@ This data set contains the average of means and standard devision measurements o
 The data included in this data set was derived from data published by "Smartlab - Non Linear Complex Systems Laboratory
 ". For more information about the original data set and measurements please visit http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
  
-Details of the data, measurements, transformations are included in Codebook.md
+Details of the data, measurements, transformations are included in [Codebook.md](https://github.com/anandbn/getting-data-course-project/blob/master/Codebook.md)
 
 ### License:
 
