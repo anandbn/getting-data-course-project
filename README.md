@@ -5,13 +5,13 @@ __Anand BN (anand.bn@gmail.com)__
 
 ### SUMMARY
 
-This data set contains the means and standard devisions of training and test data that was derived from Human Activity recognition experiment conducted by Smartlab - Non Linear Complex Systems Laboratory. The data set contains the following files
+This data set contains the average of means and standard devision measurements of training and test data that was derived from Human Activity recognition experiment conducted by Smartlab - Non Linear Complex Systems Laboratory. The data set contains the following files
 
-1. tidy_data_mean_std_by_subject_activity.txt : This the the file that has the mean/std() data summarized by activity and the subject
+1. tidy_data_mean_std_by_subject_activity.txt : This tidy data file that has the average of mean/std() variables summarized by activity and the subject
 2. features.txt : List of variables that are included in this data set
 3. features_info.txt : How the data was collected and transformed to produce the data in the above data file
 4. features_orig.txt : The original list of 561 features that was in the original data 
-5. activity_labels.txt : A mapping of the numerical value for the activity and it's description
+5. activity_labels.txt : A mapping of the numerical value for the activity and it's short description
 
 The data included in this data set was derived from data published by "Smartlab - Non Linear Complex Systems Laboratory
 ". For more information about the original data set and measurements please visit http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
@@ -43,7 +43,7 @@ The above 6 files were along with the activity_labels.txt & features_orig.txt (h
 5. Create a subset of columns that contain `mean` or `std` in their column names
 6. Subset the data set from Step#4 to include columns from Step#5 and also include `activity` and `subject`
 7. Aggreagte the data from Step#6. Aggregate by `activity` and `subject` and calculate the `mean` of all columns
- 
+
  
 ### License:
 
